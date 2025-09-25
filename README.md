@@ -2,7 +2,6 @@
 👋 Hello, this profile belongs to Bovenko Andrey
 
 📗 I'm studying at the university <br>
-💸 I'm working in IT-department <br>
 💻 I'm like JAVA <br>
 ❓ I'm working on a new project <br>
 
